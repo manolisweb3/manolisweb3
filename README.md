@@ -1,16 +1,25 @@
-## Hi there 👋
+# Manolis Web3 Journey
 
-<!--
-**manolisweb3/manolisweb3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Exploring blockchain ecosystems, testnets and early Web3 protocols.
 
-Here are some ideas to get you started:
+## Ecosystems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Sei Network
+- BNB Chain
+- Canopy Network
+
+## Activity
+
+- Testnet participation
+- DeFi exploration
+- Web3 quests
+- On-chain experiments
+
+## Repositories
+
+- web3-notes
+- testnet-journey
+
+## Goal
+
+Learning and experimenting with decentralized technologies while documenting my Web3 journey.
